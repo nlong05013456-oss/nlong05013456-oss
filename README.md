@@ -1,6 +1,21 @@
+<div align="center">
+
 # 👋 Hi, I'm Nguyễn Nhật Long
 
 ### Data Science Student | Data Analytics • Data Engineering • AI • Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analytics-📊-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Engineering-⚙️-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-🧠-green?style=for-the-badge">
+</p>
+
+<p>
+  <i>Turning data into insights, pipelines, models, and intelligent applications.</i>
+</p>
+
+</div>
 
 ---
 
