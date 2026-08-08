@@ -191,16 +191,20 @@ Retail Data → Cleaning → EDA → Features → XGBoost → Forecasting
 ## 🏗️ Data Project Approach
 
 ```text
+Business Problem
+      ↓
+Business Requirements
+      ↓
 Data Sources
-     ↓
+      ↓
 Data Engineering
-     ↓
+      ↓
 Data Warehouse
-     ↓
+      ↓
 Data Analytics
-     ↓
+      ↓
 Business Insights
-     ↓
+      ↓
 ML / AI Support
 ```
 
@@ -216,7 +220,7 @@ I focus on building reliable data foundations and turning data into actionable i
 
 <div align="center">
 
-### `Data → Engineering → Analytics → Insights`
+### `Business → Data → Engineering → Analytics → Insights → ML / AI`
 
 ⭐ Thanks for visiting my profile!
 
