@@ -26,9 +26,17 @@ I'm a **Data Science student** focused on building practical, data-driven soluti
 My primary interests are **Data Analytics** and **Data Engineering**, with foundational knowledge in **Machine Learning** and **Artificial Intelligence**.
 
 ```text
-Raw Data → Data Engineering → Data Warehouse → Data Analytics → Business Insights
-                                                                    ↓
-                                                               ML / AI Support
+Raw Data
+   ↓
+Data Engineering
+   ↓
+Data Warehouse
+   ↓
+Data Analytics
+   ↓
+Business Insights
+   ↓
+ML / AI Support
 ```
 
 ---
