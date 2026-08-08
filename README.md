@@ -152,7 +152,7 @@ Flight API + Historical Data + Weather API
 
 **Tech:** `GCP` `GCS` `BigQuery` `Apache Beam` `SQL` `Looker`
 
-🔗 **[View Project](#)**
+🔗 **[View Project](https://github.com/nlong05013456-oss/AeroFlow)**
 
 ---
 
