@@ -1,112 +1,69 @@
-<div align="center">
-
 # 👋 Hi, I'm Nguyễn Nhật Long
 
-### Data Science Student | Data Analytics • Data Engineering • AI • Machine Learning
+### Data Science Student | Data Analytics • Data Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/Data%20Analytics-📊-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Data%20Engineering-⚙️-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-🧠-green?style=for-the-badge">
-</p>
+I'm a **Data Science student** focused on **Data Analytics and Data Engineering**, with additional foundations in **Machine Learning and Artificial Intelligence**.
 
-<p>
-  <i>Turning data into insights, pipelines, models, and intelligent applications.</i>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Data Science student** interested in building practical solutions across the data and AI ecosystem.
-
-My main areas of focus are:
-
-* 📊 **Data Analytics** — turning data into meaningful insights and business decisions
-* ⚙️ **Data Engineering** — building reliable data pipelines, warehouses, and cloud data platforms
-* 🤖 **Artificial Intelligence** — developing intelligent applications and AI-powered systems
-* 🧠 **Machine Learning** — building predictive models and data-driven solutions
-
-I enjoy working across the complete data lifecycle:
+I enjoy working with data from collection and transformation to analysis, visualization, and data-driven solutions.
 
 ```text
-Raw Data
-   ↓
+Data Sources
+     ↓
 Data Engineering
-   ↓
+     ↓
+Data Warehouse
+     ↓
 Data Analytics
-   ↓
+     ↓
+Business Insights
+     ↓
 Machine Learning
-   ↓
-Artificial Intelligence
-   ↓
-Real-world Applications
 ```
 
 ---
 
 ## 🧭 My Focus
 
-<table>
-<tr>
-<td width="50%">
+### 📊 Data Analytics — Core
 
-### 📊 Data Analytics
-
-* Data Cleaning & Preparation
 * SQL & Data Analysis
+* Data Cleaning & Preparation
 * Exploratory Data Analysis
+* Statistical Analysis
+* KPI Analysis
+* Data Visualization
 * Business Intelligence
 * Dashboard Development
-* Data Visualization
 
-</td>
+### ⚙️ Data Engineering — Core
 
-<td width="50%">
-
-### ⚙️ Data Engineering
-
-* ETL / ELT Pipelines
-* Data Warehousing
+* ETL / ELT
+* Data Pipeline
+* Data Warehouse
 * Data Modeling
-* Cloud Data Platforms
-* Big Data Processing
-* Data Pipeline Automation
+* Star Schema
+* Cloud Data Platform
+* API Data Ingestion
+* BigQuery
+* Google Cloud Platform
 
-</td>
-</tr>
+### 🧠 Machine Learning — Foundation
 
-<tr>
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-
-* LLM Applications
-* AI Agents
-* RAG Systems
-* AI-powered Applications
-* API Integration
-* Intelligent Decision Support
-
-</td>
-
-<td width="50%">
-
-### 🧠 Machine Learning
-
-* Supervised Learning
+* Scikit-learn
+* XGBoost
+* Feature Engineering
 * Classification
 * Regression
-* Forecasting
 * Clustering
+* Forecasting
 * Model Evaluation
 
-</td>
-</tr>
-</table>
+### 🤖 Artificial Intelligence — Foundation
+
+* AI Fundamentals
+* Deep Learning Fundamentals
+* Neural Networks
+* TensorFlow / Keras
 
 ---
 
@@ -114,78 +71,101 @@ Real-world Applications
 
 ### 📊 Data Analytics
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white">
-</p>
+**SQL · Python · Pandas · Excel · Power BI · Looker Studio · Tableau · EDA · Statistics · Data Visualization · KPI Analysis**
 
 ### ⚙️ Data Engineering
 
-<p>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white">
-<img src="https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA?style=flat-square&logo=googlecloudstorage&logoColor=black">
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Beam-FB4F14?style=flat-square&logo=apache&logoColor=white">
-</p>
+**SQL · Python · ETL / ELT · Data Pipeline · Data Warehouse · Data Modeling · Star Schema · BigQuery · GCP · GCS · Apache Beam · Apache Spark · Airflow · API Data Ingestion**
 
 ### 🧠 Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white">
-</p>
+**Python · Scikit-learn · XGBoost · EDA · Feature Engineering · Classification · Regression · Clustering · Forecasting**
 
 ### 🤖 Artificial Intelligence
 
-<p>
-<img src="https://img.shields.io/badge/LLM-412991?style=flat-square">
-<img src="https://img.shields.io/badge/AI%20Agents-6C47FF?style=flat-square">
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square">
-<img src="https://img.shields.io/badge/API-009688?style=flat-square">
-</p>
+**AI Fundamentals · Deep Learning Fundamentals · Neural Networks · TensorFlow · Keras**
 
 ---
 
 # 🚀 Featured Projects
 
-## ✈️ AeroFlow — Aviation Data Platform
+## ✈️ AeroFlow — Aviation Data Warehouse & Analytics
 
 > **Data Engineering • Data Warehouse • Cloud • Analytics**
 
-A cloud-based aviation data platform designed to collect, transform, store, and analyze flight and weather data.
+A cloud-based aviation data platform for collecting, processing, storing, and analyzing flight and weather data.
 
 ### Architecture
 
 ```text
 Flight API + Historical Data + Weather API
                     ↓
-               Data Ingestion
+              Data Ingestion
                     ↓
-              Cloud Storage
+               GCS Storage
                     ↓
-             ETL / ELT Pipeline
+              ELT Pipeline
                     ↓
-               BigQuery
+                BigQuery
                     ↓
-            Data Warehouse
+             Data Warehouse
                     ↓
-              Looker / BI
+          Looker Studio / Web App
                     ↓
              Business Insights
 ```
 
+### Key Work
+
+* Designed a **Star Schema** for aviation analytics
+* Built an **ELT pipeline** for flight and weather data
+* Ingested data from APIs into **GCS and BigQuery**
+* Used SQL for transformation and analytical queries
+* Developed dashboards for operational analysis
+
 ### Technologies
 
-`GCP` `GCS` `BigQuery` `Apache Beam` `SQL` `Data Warehouse` `Looker`
+`GCP` `GCS` `BigQuery` `SQL` `Apache Beam` `Data Warehouse` `Looker Studio`
+
+🔗 **Repository:** [View Project](#)
+
+---
+
+## 📊 Aurora Skin — Business Analytics Dashboard
+
+> **Data Analytics • Business Intelligence • Dashboard**
+
+A business analytics project focused on transforming sales data into actionable business insights.
+
+### Workflow
+
+```text
+Raw Business Data
+       ↓
+Data Cleaning
+       ↓
+SQL / Python
+       ↓
+EDA & KPI Analysis
+       ↓
+Customer & Product Analysis
+       ↓
+Interactive Dashboard
+       ↓
+Business Insights
+```
+
+### Key Work
+
+* Cleaned and transformed business data
+* Analyzed sales performance and KPIs
+* Performed customer segmentation using **RFM / Cohort Analysis**
+* Identified product and customer contribution to business performance
+* Built interactive dashboards
+
+### Technologies
+
+`SQL` `Python` `Pandas` `Excel` `Tableau`
 
 🔗 **Repository:** [View Project](#)
 
@@ -193,173 +173,133 @@ Flight API + Historical Data + Weather API
 
 ## 📦 Retail Inventory Forecasting
 
-> **Machine Learning • Forecasting • Business Intelligence**
+> **Machine Learning • Forecasting**
 
-A machine learning project focused on forecasting product demand and supporting inventory planning.
+A machine learning project for forecasting product demand and supporting inventory planning.
 
 ### Workflow
 
 ```text
-Raw Retail Data
-      ↓
-Data Cleaning
-      ↓
-Exploratory Data Analysis
-      ↓
-Feature Engineering
-      ↓
-Machine Learning
-      ↓
-Demand Forecasting
-      ↓
-Inventory Decision Support
-```
-
-### Technologies
-
-`Python` `Pandas` `Scikit-learn` `XGBoost` `K-Means`
-
-🔗 **Repository:** [View Project](#)
-
----
-
-## 🤖 Personal AI Learning Agent
-
-> **Artificial Intelligence • AI Agent • Intelligent Applications**
-
-An AI-powered personal assistant designed to support learning and decision-making by combining contextual information, planning, and intelligent recommendations.
-
-### Concept
-
-```text
-User Context
-     +
-External Information
-     ↓
-     AI Agent
-     ↓
-Reasoning & Planning
-     ↓
-Personalized Recommendation
-     ↓
-Learning Support
-```
-
-### Technologies
-
-`Python` `LLM` `AI Agent` `API` `RAG`
-
-🔗 **Repository:** [View Project](#)
-
----
-
-## 📊 Business Analytics Projects
-
-> **Data Analytics • SQL • Dashboard • Business Intelligence**
-
-Projects focused on transforming raw business data into actionable insights through data analysis and visualization.
-
-### Typical workflow
-
-```text
-Business Data
-     ↓
-SQL / Python
+Retail Data
      ↓
 Data Cleaning
      ↓
 EDA
      ↓
-KPI Analysis
+Feature Engineering
      ↓
-Dashboard
+XGBoost
      ↓
-Business Insights
+Model Evaluation
+     ↓
+Demand Forecasting
 ```
 
 ### Technologies
 
-`SQL` `Python` `Pandas` `Excel` `Power BI` `Looker`
+`Python` `Pandas` `Scikit-learn` `XGBoost`
 
-🔗 **View Projects:** [Analytics Projects](#)
+🔗 **Repository:** [View Project](#)
 
 ---
 
-# 🏗️ How I Approach Data Projects
+# 🏗️ How I Work With Data
 
-I prefer building projects as complete systems rather than isolated notebooks.
+My main interest is understanding the connection between **data engineering and analytics**.
 
 ```text
-                ┌─────────────────┐
-                │   Data Sources  │
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │ Data Engineering│
-                └────────┬────────┘
-                         ↓
-                ┌─────────────────┐
-                │ Data Warehouse  │
-                └────────┬────────┘
-                         ↓
-              ┌──────────┴──────────┐
-              ↓                     ↓
-       ┌──────────────┐      ┌──────────────┐
-       │  Analytics   │      │  ML / AI     │
-       └──────┬───────┘      └──────┬───────┘
-              ↓                     ↓
-       ┌────────────────────────────────┐
-       │       Business Application     │
-       └────────────────────────────────┘
+                 DATA SOURCES
+                      │
+                      ↓
+              ┌───────────────┐
+              │ Data Pipeline  │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │ Data Warehouse│
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │   Analytics   │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │   Dashboard   │
+              └───────┬───────┘
+                      ↓
+              Business Insights
+                      │
+                      ↓
+                ML / AI Support
 ```
 
-My goal is to understand not only **how to build a model**, but also how data is collected, transformed, stored, analyzed, and eventually used in real applications.
+I focus on building solutions where **data is properly collected, transformed, modeled, analyzed, and presented for decision-making**.
 
 ---
 
 # 🚧 Currently Building
 
-* ✈️ **AeroFlow** — Aviation Data Warehouse & ELT Platform
-* 🤖 **Personal AI Learning Agent**
-* 🧠 **Machine Learning & Forecasting Projects**
-* 📊 **Data Analytics & Business Intelligence Projects**
+### ⚙️ Data Engineering
+
+**AeroFlow — Aviation Data Warehouse & ELT Platform**
+
+Building a cloud-based data platform using GCP, BigQuery, GCS, APIs, and ELT pipelines.
+
+### 📊 Data Analytics
+
+**Business Intelligence & Dashboard Projects**
+
+Working on SQL-based analysis, KPI development, data visualization, and interactive dashboards.
+
+### 🧠 Machine Learning
+
+Exploring practical forecasting and predictive analytics projects.
+
+### 🤖 Artificial Intelligence
+
+Building foundational knowledge in AI and exploring how AI can be integrated into data applications.
 
 ---
 
 # 📚 Currently Learning
 
-```text
-Data Engineering
-      ↓
-Cloud Data Platforms
-      ↓
-Data Warehousing
-      ↓
-Machine Learning
-      ↓
-Artificial Intelligence
-```
-
-I'm continuously improving my knowledge of:
+### Main Focus
 
 * Advanced SQL
-* Data Engineering & Cloud Architecture
+* Data Engineering
 * Data Warehouse Design
+* Cloud Data Platforms
+* ETL / ELT
+* Business Intelligence
+
+### Supporting Skills
+
 * Machine Learning
-* AI Agents & LLM Applications
+* Statistical Modeling
+* Artificial Intelligence
+* Deep Learning Fundamentals
 
 ---
 
 # 🎯 Career Direction
 
-I'm currently building my portfolio toward four closely connected areas:
+I'm currently building my career toward:
 
-**📊 Data Analyst**
-**⚙️ Data Engineer**
-**🤖 AI Engineer**
-**🧠 Machine Learning Engineer**
+### 📊 Data Analyst
 
-Rather than focusing on only one stage of the data lifecycle, I aim to develop the ability to work from **data collection and engineering to analytics, machine learning, and intelligent applications.**
+### ⚙️ Data Engineer
+
+with supporting knowledge in:
+
+### 🧠 Machine Learning
+
+### 🤖 Artificial Intelligence
+
+My goal is to become a data professional who can work across the pipeline from:
+
+**Data → Engineering → Analytics → Insights**
+
+while gradually applying **Machine Learning and AI** where they provide practical value.
 
 ---
 
@@ -367,7 +307,7 @@ Rather than focusing on only one stage of the data lifecycle, I aim to develop t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nlong05013456-oss&show_icons=true&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=nlong05013456-oss&show_icons=true&hide_border=true" height="165">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlong05013456-oss&layout=compact&hide_border=true" height="165">
 
@@ -397,7 +337,7 @@ Rather than focusing on only one stage of the data lifecycle, I aim to develop t
 
 <div align="center">
 
-### `Data → Engineering → Analytics → Intelligence`
+### `Data → Engineering → Analytics → Insights`
 
 ⭐ Thanks for visiting my profile!
 
