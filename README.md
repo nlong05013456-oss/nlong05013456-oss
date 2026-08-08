@@ -210,7 +210,7 @@ I focus on building reliable data foundations and turning data into actionable i
 
 ## 📫 Let's Connect
 
-📧 **Email:** your-email@example.com
+📧 **Email:** nlong05013456@gmail.com
 
 ---
 
