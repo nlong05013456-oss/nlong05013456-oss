@@ -208,48 +208,9 @@ I focus on building reliable data foundations and turning data into actionable i
 
 ---
 
-## 🚧 Currently Building
-
-**⚙️ AeroFlow** — Aviation Data Warehouse & ELT Platform
-**📊 Business Analytics** — BI & Dashboard Projects
-**🧠 ML** — Forecasting & Predictive Analytics
-**🤖 AI** — Exploring practical AI applications
-
----
-
-## 📚 Currently Learning
-
-**Core:** `Advanced SQL` `Data Engineering` `Data Warehousing` `Cloud` `Business Intelligence`
-
-**Supporting:** `Machine Learning` `Artificial Intelligence` `Deep Learning`
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nlong05013456-oss&show_icons=true&hide_border=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlong05013456-oss&layout=compact&hide_border=true" height="165">
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
-<div align="center">
-
-<a href="https://github.com/nlong05013456-oss">
-<img src="https://img.shields.io/badge/GitHub-nlong05013456--oss-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
+📧 **Email:** your-email@example.com
 
 ---
 
