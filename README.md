@@ -172,19 +172,35 @@ Business Data → Cleaning → SQL / Python → EDA → KPI Analysis → Dashboa
 
 ---
 
-## 📦 Retail Inventory Forecasting
+## 🧠 StockMind AI
 
-> **Machine Learning • Forecasting**
+> **AI-Powered Demand Forecasting • Inventory Planning • Decision Support**
 
-Predictive modeling project for demand forecasting and inventory planning.
+An intelligent multi-series inventory decision support system that forecasts demand at the **Store–Product level**, evaluates multiple machine learning models, and converts demand forecasts into explainable inventory replenishment recommendations.
 
 ```text
-Retail Data → Cleaning → EDA → Features → XGBoost → Forecasting
+Retail Data
+    ↓
+Data Processing & Feature Engineering
+    ↓
+Multi-Series Demand Forecasting
+    ↓
+Naive vs Random Forest vs XGBoost
+    ↓
+Automatic Model Selection
+    ↓
+Inventory Planning
+    ↓
+Safety Stock & Risk Analysis
+    ↓
+Recommended Order Quantity
 ```
 
-**Tech:** `Python` `Pandas` `Scikit-learn` `XGBoost`
+**Tech:** `Python` `Pandas` `Scikit-learn` `Random Forest` `XGBoost` `Streamlit` `Plotly`
 
-🔗 **[View Project](#)**
+**Core:** `Time-Series Forecasting` `Multi-Series ML` `Inventory Optimization` `Safety Stock` `Decision Support`
+
+🔗 **[View Project](https://github.com/nlong05013456-oss/StockMind-AI)**
 
 ---
 
