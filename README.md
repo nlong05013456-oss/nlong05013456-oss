@@ -156,19 +156,19 @@ Flight API + Historical Data + Weather API
 
 ---
 
-## 📊 Aurora Skin — Business Analytics
+## 🛒 Olist Commerce Intelligence — E-Commerce Analytics
 
 > **Data Analytics • Business Intelligence**
 
-Business analytics project focused on KPI analysis, customer/product insights, and dashboard development.
+E-commerce analytics project focused on sales performance, customer behavior, product insights, seller performance, and business KPI analysis.
 
 ```text
 Business Data → Cleaning → SQL / Python → EDA → KPI Analysis → Dashboard
 ```
 
-**Tech:** `SQL` `Python` `Pandas` `Excel` `Tableau`
+**Tech:** `Python` `Pandas` `SQL` `SQLite` `Power BI` `Excel` `GitHub Pages`
 
-🔗 **[View Project](#)**
+🔗 **[View Project](https://github.com/nlong05013456-oss/Olist-Commerce-Intelligence)**
 
 ---
 
